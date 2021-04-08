@@ -24,7 +24,7 @@ For example, if you want to create a Makefile for a project in your current dire
 $ gomf .
 ```
 
-It will ask you couple of questions to configure the Makefile.
+It will ask you a couple of questions to configure the Makefile.
 
 ## The Makefile
 
